@@ -400,7 +400,7 @@ transparency_report = doc_generator.create_transparency_report(
 - 📧 **Governance Advisory:** sotiris@verityai.co
 - 🌐 **Compliance Resources:** [verityai.co/ai-governance](https://verityai.co)
 - 💼 **LinkedIn:** [linkedin.com/in/sspyrou](https://linkedin.com/in/sspyrou)
-- 📱 **Direct:** +44 7920 514 588
+
 
 ---
 

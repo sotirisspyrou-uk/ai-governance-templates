@@ -1,64 +1,64 @@
-# Contributing to AI Governance Templates
+# Contributing to Growth Experiment Framework
 
-We welcome contributions to the AI Governance Templates project! This framework helps organizations implement enterprise-ready AI compliance and risk management systems.
+## Overview
+
+This is a **demonstration repository** showcasing advanced growth experimentation and statistical analysis capabilities. While the code is functional, it's primarily designed as a portfolio piece to demonstrate technical expertise in:
+
+- A/B testing and experimentation
+- Statistical analysis and modeling
+- Growth optimization methodologies
+- Data-driven decision making frameworks
+
+## Demo Code Disclaimer
+
+⚠️ **Important**: This is demonstration code created for portfolio purposes. While it implements sophisticated statistical methods and follows best practices, it should not be used in production environments without proper testing, validation, and customization for your specific use case.
 
 ## How to Contribute
 
-### Reporting Issues
-- Use GitHub Issues to report bugs or request features
-- Include detailed descriptions and steps to reproduce
-- Tag issues appropriately (bug, enhancement, documentation, etc.)
+### For Learning and Exploration
+- Feel free to fork this repository to explore the implementations
+- Use the code as reference for your own projects
+- Experiment with the statistical methods and frameworks
 
-### Submitting Changes
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Make your changes following our coding standards
-4. Add tests for new functionality
-5. Update documentation as needed
-6. Submit a pull request
+### For Improvements and Suggestions
+If you find issues or have suggestions for improvements:
 
-### Coding Standards
-- Follow PEP 8 for Python code
-- Include docstrings for all functions and classes
-- Add type hints where appropriate
-- Keep functions focused and well-named
-- Write comprehensive tests for new features
+1. **Open an Issue**: Describe the problem or enhancement clearly
+2. **Fork and Pull Request**: Make your changes and submit a PR with:
+   - Clear description of what you changed
+   - Why the change improves the code
+   - Any testing you performed
 
-### Documentation Standards
-- Update relevant .md files when adding features
-- Include practical examples and use cases
-- Maintain consistency with existing documentation style
-- Focus on enterprise implementation guidance
+### Code Standards
+- Follow existing code style and patterns
+- Include proper type hints and documentation
+- Maintain statistical accuracy and best practices
+- Add appropriate error handling
 
-### Review Process
-- All submissions require peer review
-- Changes must pass automated tests
-- Documentation must be updated
-- Compliance with security best practices required
+## Statistical Methods
 
-### Governance Framework Contributions
-When contributing to governance frameworks:
-- Ensure alignment with EU AI Act, ISO 42001, and NIST AI RMF
-- Include practical implementation guidance
-- Provide template generation capabilities
-- Consider enterprise scalability requirements
-- Include risk assessment integration
+This framework implements various statistical methods including:
+- Bayesian A/B testing
+- Sequential testing with early stopping
+- Multi-armed bandit optimization
+- Meta-analysis and effect size calculations
+- Multiple testing corrections
+- Advanced confidence interval methods
 
-### Professional Services Integration
-Contributions should support integration with professional AI compliance services:
-- [VerityAI EU AI Act Compliance](https://verityai.co/landing/eu-ai-act-compliance-readiness)
-- [AI Compliance Solutions](https://verityai.co/landing/ai-compliance-solutions)
+## Professional Context
 
-## Code of Conduct
-- Be respectful and inclusive
-- Focus on constructive feedback
-- Support learning and knowledge sharing
-- Maintain professional standards
+This repository demonstrates capabilities in:
+- **Statistical Rigor**: Implementation of advanced statistical methods
+- **Software Architecture**: Clean, modular, and extensible code design
+- **Business Applications**: Growth-focused metrics and optimization
+- **Technical Leadership**: Combining statistical expertise with practical implementation
 
-## Getting Help
-- Check existing documentation first
-- Review closed issues for similar questions  
-- Ask questions in GitHub Discussions
-- Contact maintainers for governance-specific guidance
+## Contact
 
-Thank you for contributing to AI governance best practices!
+For professional inquiries or consulting opportunities:
+- **Portfolio**: [https://verityai.co](https://verityai.co)
+- **LinkedIn**: [https://www.linkedin.com/in/sspyrou/](https://www.linkedin.com/in/sspyrou/)
+
+---
+
+**Note**: This is a demonstration project. The author is available for consulting on growth experimentation, statistical analysis, and data-driven optimization projects.

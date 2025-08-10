@@ -1,63 +1,8 @@
-# License - AI Governance Templates Portfolio
+# License
 
-## Professional Portfolio & Demonstration License
+## MIT License with Demo Code Disclaimer
 
-**Author:** Sotiris Spyrou - Technical Marketing Leader & AI Governance Expert  
-**LinkedIn:** [Connect with Sotiris](https://www.linkedin.com/in/sspyrou/)  
-**Professional Services:** [VerityAI - AI Compliance Solutions](https://verityai.co)
-
----
-
-## 📋 Usage Terms & Rights
-
-### ✅ **What You Can Do (Free Use)**
-- **Educational Use:** Study and learn from these AI governance frameworks
-- **Portfolio Reference:** Use as examples of best practices in AI compliance and risk management
-- **Academic Research:** Cite and reference in research papers with proper attribution
-- **Professional Development:** Adapt templates for learning and skill development
-- **Open Source Projects:** Incorporate with attribution for non-commercial projects
-
-### ✅ **Attribution Required**
-When using this work, please include:
-```
-AI Governance Templates by Sotiris Spyrou (https://www.linkedin.com/in/sspyrou/)
-Professional AI Governance Services: https://verityai.co
-```
-
----
-
-## 🚨 **Important Disclaimer - Demo Work Only**
-
-### **This is Professional Portfolio Demonstration Work**
-- **Not Production-Ready:** These templates are created for portfolio demonstration and educational purposes
-- **Professional Consultation Required:** For production AI governance implementation, engage qualified legal, compliance, and technical professionals
-- **No Warranties:** The author provides no warranties and assumes no liability for any use of these templates
-- **Not Legal Advice:** Content is educational and should not be considered legal, regulatory, or compliance advice
-
-### **For Production Implementation**
-If you need enterprise-ready AI governance solutions:
-- 🌐 **Professional Services:** [VerityAI - Expert AI Compliance Implementation](https://verityai.co)
-- 💼 **Consultation:** [Connect with Sotiris Spyrou](https://www.linkedin.com/in/sspyrou/) for strategic AI governance leadership
-- 📧 **Enterprise Solutions:** Transform these frameworks into production-grade governance systems
-
----
-
-## 🎯 **Professional Value Demonstration**
-
-This portfolio showcases:
-- **Strategic Thinking:** C-suite level AI strategy and governance frameworks
-- **Technical Implementation:** Hands-on AI compliance and risk management systems
-- **Regulatory Expertise:** EU AI Act, GDPR, NIST AI RMF, and ISO standards alignment
-- **Cross-Functional Leadership:** Templates serving executives, legal teams, technical teams, and compliance officers
-- **Business Value Focus:** ROI-driven approach that transforms compliance into competitive advantage
-
-**Market Positioning:** "The rare technical marketing leader who combines C-suite strategy with hands-on AI implementation" - exactly what organizations need for AI governance leadership.
-
----
-
-## 📄 **MIT License (Modified for Portfolio Use)**
-
-Copyright (c) 2025 Sotiris Spyrou - AI Governance Templates Portfolio
+Copyright (c) 2024 Sotirios Spyrou
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -66,16 +11,42 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-### **Attribution Requirement:**
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software, along with:
-- Author: Sotiris Spyrou (https://www.linkedin.com/in/sspyrou/)
-- Professional Services: VerityAI (https://verityai.co)
+copies or substantial portions of the Software.
 
-### **Professional Consultation Disclaimer:**
-Any commercial or production use of these templates should involve consultation
-with qualified professionals. For enterprise AI governance implementation,
-contact the author through VerityAI (https://verityai.co).
+## IMPORTANT DISCLAIMER - DEMONSTRATION CODE
+
+**⚠️ THIS IS DEMONSTRATION CODE FOR PORTFOLIO PURPOSES ⚠️**
+
+This repository contains demonstration code created to showcase technical capabilities in:
+- Growth experimentation and A/B testing
+- Advanced statistical analysis and modeling
+- Data-driven optimization frameworks
+- Statistical software architecture
+
+### Usage Disclaimer
+
+1. **Not Production Ready**: While functional, this code is designed for demonstration purposes and should NOT be used in production environments without proper testing, validation, and customization.
+
+2. **Educational Use**: Feel free to use this code for learning, education, and as reference for your own implementations.
+
+3. **No Warranty**: The code is provided "as is" for demonstration purposes. See full warranty disclaimer below.
+
+4. **Professional Consulting**: For production implementations or consulting on growth experimentation, statistical analysis, or optimization projects, please contact the author.
+
+### Statistical Methods Implemented
+
+This framework demonstrates implementation of:
+- Bayesian A/B testing with Beta-Binomial conjugate priors
+- Sequential testing with early stopping boundaries
+- Multi-armed bandit algorithms (Thompson Sampling, UCB, Epsilon-Greedy)
+- Advanced confidence interval methods (Bootstrap, Bayesian, Exact)
+- Effect size analysis (Cohen's d, Hedges' g, Common Language Effect Size)
+- Multiple testing correction methods (Bonferroni, Holm, FDR control)
+- Meta-analysis with heterogeneity assessment and publication bias detection
+- Comprehensive power analysis and sample size optimization
+
+## Standard MIT License Terms
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -85,23 +56,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
+## Contact
 
-## 🤝 **Connect & Collaborate**
-
-**Interested in AI Governance Leadership?**
-
-I'm passionate about transforming AI compliance from burden to business advantage. Whether you need:
-- **Strategic Consulting:** Board-level AI governance strategy and risk management
-- **Technical Implementation:** Hands-on AI compliance system development  
-- **Executive Communication:** C-suite AI performance dashboards and stakeholder reporting
-- **Regulatory Navigation:** EU AI Act, GDPR, and emerging AI regulation compliance
-
-**Let's connect:**
-- 💼 **LinkedIn:** [Sotiris Spyrou - AI Governance & Technical Marketing Leader](https://www.linkedin.com/in/sspyrou/)
-- 🌐 **Professional Services:** [VerityAI - Transform AI Compliance into Competitive Advantage](https://verityai.co)
-- 📧 **Direct Contact:** Available for senior roles, consulting engagements, and strategic partnerships
+For professional inquiries, consulting, or questions about production implementations:
+- **Portfolio**: [https://verityai.co](https://verityai.co)
+- **LinkedIn**: [https://www.linkedin.com/in/sspyrou/](https://www.linkedin.com/in/sspyrou/)
 
 ---
 
-*This license reflects my commitment to knowledge sharing while establishing clear professional boundaries and value proposition for enterprise AI governance leadership roles.*
+**This is a demonstration project showcasing technical expertise in growth experimentation, statistical analysis, and data-driven optimization.**
